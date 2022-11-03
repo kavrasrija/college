@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author rkavy
+ *
+ */
+module college {
+}
